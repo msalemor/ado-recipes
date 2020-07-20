@@ -70,9 +70,9 @@
 
 ## Recipies
 
-- [ARM Template](arm-template.md)
-- [ARM Template, C# APP Service, SQL](arm-appservice-sql.md)
-- [REACT Application to Storage Account Static Page](spa-to-staticpage.md)
+- [ARM Template](arm-template-deployment.md)
+- [.Net Core APP Service, SQL](appservice-sql-deployment.md)
+- [REACT Application to Storage Account Static Page](react-to-staticpage-deployment.md)
 - [Build docker image and deploy to AKS](docker-build-aks.md)
 - [Docker image with ConfigMap and AKS](docker-aks-config-map.md)
 - [API and Azure Functions](apim-functions.md)
